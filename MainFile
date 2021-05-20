@@ -628,7 +628,7 @@ void menu(void)
 
     printf("\n\n\n\t\t\t\xB2\xB2\xB2\xB2\xB2\xB2\xB2 WELCOME TO THE MAIN MENU \xB2\xB2\xB2\xB2\xB2\xB2\xB2");
 
-    printf("\n\n\t\t1.Create new account\n\t\t2.Update information of existing account\n\t\t3.For transactions\n\t\t4.Check the details of existing account\n\t\t5.Removing existing account\n\t\t6.View customer's list\n\t\t7.Exit\n\n\n\n\n\t\t Enter your choice:");
+    printf("\n\n\t\t1. Create new account\n\t\t2. Update information of existing account\n\t\t3. For transactions\n\t\t4. Check the details of existing account\n\t\t5. Removing existing account\n\t\t6. View customer's list\n\t\t7. Deposite\n\t\t8. Withdraw\n\t\t9. Exit\n\n\n\n\n\t\t Enter your choice:");
     scanf("%d",&choice);
 
     system("cls");
